@@ -42,3 +42,15 @@ QUIT
 ```
 FLASK_APP=app.py flask run
 ```
+<img width="713" alt="Снимок экрана 2024-03-18 в 22 45 32" src="https://github.com/MariaDys/app/assets/77514289/ded3d9fb-e27b-4eaa-83d6-0c907bd7880c">
+
+ В результате получаем URL-адрес локального сервера: http://127.0.0.1:5000 и переходим по этому адресу на главную страницу приложения:
+
+ <img width="1085" alt="Снимок экрана 2024-03-18 в 22 46 10" src="https://github.com/MariaDys/app/assets/77514289/1b5728dd-11dc-458a-82f9-20b0a66d8aec">
+
+ ## **Примеры использования приложения**
+
+<img width="1081" alt="Снимок экрана 2024-03-18 в 22 46 46" src="https://github.com/MariaDys/app/assets/77514289/32b12fd9-6dc7-4e35-9297-deff86945372">
+
+<img width="1081" alt="Снимок экрана 2024-03-18 в 22 46 58" src="https://github.com/MariaDys/app/assets/77514289/a40785d6-27b1-4437-af89-8046e89da9f6">
+
